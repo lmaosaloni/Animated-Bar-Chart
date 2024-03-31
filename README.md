@@ -20,8 +20,8 @@ No external libraries required
 # Compiling the Program
 1) Open a terminal or command prompt.
 2) Navigate to the project directory.
-Run the following command to compile the program: g++ -std=c++11 application.cpp -o AnimatedBarChart
-Adjust the -std=c++11 flag if you're using features from a newer C++ standard.
+Run the following command to compile the program: g++ -std=c++11 application.cpp -o AnimatedBarChart . 
+( Adjust the -std=c++11 flag if you're using features from a newer C++ standard. )
 
 # Running the Program
 After compiling, run the program with: ./AnimatedBarChart
