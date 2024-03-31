@@ -1,5 +1,4 @@
 ## Animated Bar Chart
-Project Introduction
 The Animated Bar Chart project is a C++ program designed to visualize the evolution of categorical data over time through dynamic bar charts. This visualization technique is particularly popular on social media for its straightforward yet compelling way to narrate changes and trends in data across various categories. It can be applied to a wide range of data types, from population growth in cities to changes in market share among competitors, making complex data easily understandable at a glance.
 
 ## Why It's Interesting
