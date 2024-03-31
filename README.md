@@ -5,10 +5,10 @@ The Animated Bar Chart project is a C++ program designed to visualize the evolut
 Animated bar charts bring data to life, allowing viewers to watch as rankings shift over time. This dynamic presentation can reveal patterns and trends that static charts cannot, making it an invaluable tool for storytelling in data journalism, education, and business analytics.
 
 ## Applications
-Data Journalism: Illustrating shifts in social and economic indicators.
-Education: Teaching statistics and data representation.
-Business Analytics: Showing changes in market dynamics.
-Social Media: Engaging audiences with captivating visual data stories.
+# Data Journalism: Illustrating shifts in social and economic indicators.
+# Education: Teaching statistics and data representation.
+# Business Analytics: Showing changes in market dynamics.
+# Social Media: Engaging audiences with captivating visual data stories.
 
 ## Installation and Running Instructions
 
