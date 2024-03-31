@@ -25,30 +25,3 @@ Run the following command to compile the program: g++ -std=c++11 application.cpp
 
 # Running the Program
 After compiling, run the program with: ./AnimatedBarChart
-
-# Usage Examples
-
-- Preparing Your Data File
-The program reads data from a text file formatted as follows:
-
-The first line contains the chart title.
-The second line contains the x-axis label.
-The third line is the source of the data.
-Subsequent sections start with a year or category and are followed by entries representing individual bars in the chart. Each entry is on a new line, with fields separated by commas. For example: Year,Name,Value,Category
-
-- Sample Data File
-
-Global Populations
-Year
-Source: United Nations
-2020
-China,1394015977,Asia
-India,1311559207,Asia
-USA,331883986,Americas
-...
-2021
-China,1398000000,Asia
-India,1319000000,Asia
-USA,332639102,Americas
-...
-Place your data file in the same directory as the program or provide a path to it.
